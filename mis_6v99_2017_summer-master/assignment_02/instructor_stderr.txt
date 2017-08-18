@@ -1,0 +1,2 @@
+/home/ancuser/anaconda3/lib/python3.6/site-packages/pandas/core/generic.py:1345: UserWarning: The spaces in these column names will not be changed. In pandas versions < 0.14, spaces were converted to underscores.
+  chunksize=chunksize, dtype=dtype)

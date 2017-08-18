@@ -1,0 +1,32 @@
+
+2017-07-03 00:36 Monday
+ Checking Directory: assignment_01 File: create_flight_schedule.py
+Assignment source code file found
+Assignment source code completed a run without a stack trace
+Please check instructor_stdout.txt for stdout (if any)
+Please check instructor_stderr.txt for stderr (if any)
+Attempting to read flight schedule file: flight_schedule.csv
+[['T1', 'HOU', 'AUS', '0600', 360, '0645', 405], ['T1', 'AUS', 'HOU', '0720', 440, '0805', 485], ['T1', 'AUS', 'HOU', '0840', 520, '0925', 565], ['T1', 'HOU', 'DAL', '1000', 600, '1105', 665], ['T1', 'DAL', 'AUS', '1135', 695, '1225', 745], ['T1', 'AUS', 'DAL', '1250', 770, '1340', 820], ['T1', 'DAL', 'HOU', '1410', 850, '1515', 915], ['T1', 'HOU', 'DAL', '1550', 950, '1655', 1015], ['T1', 'DAL', 'AUS', '1725', 1045, '1815', 1095], ['T1', 'AUS', 'DAL', '1840', 1120, '1930', 1170], ['T1', 'DAL', 'HOU', '2000', 1200, '2105', 1265], ['T2', 'HOU', 'DAL', '0600', 360, '0705', 425], ['T2', 'DAL', 'AUS', '0735', 455, '0825', 505], ['T2', 'AUS', 'HOU', '0850', 530, '0935', 575], ['T2', 'HOU', 'DAL', '1010', 610, '1115', 675], ['T2', 'DAL', 'HOU', '1145', 705, '1250', 770], ['T2', 'HOU', 'AUS', '1325', 805, '1410', 850], ['T2', 'AUS', 'DAL', '1435', 875, '1525', 925], ['T2', 'DAL', 'HOU', '1555', 955, '1700', 1020], ['T2', 'HOU', 'DAL', '1735', 1055, '1840', 1120], ['T2', 'DAL', 'AUS', '1910', 1150, '2000', 1200], ['T2', 'AUS', 'DAL', '2025', 1225, '2115', 1275], ['T3', 'HOU', 'DAL', '0600', 360, '0705', 425], ['T3', 'DAL', 'HOU', '0735', 455, '0840', 520], ['T3', 'HOU', 'AUS', '0915', 555, '1000', 600], ['T3', 'AUS', 'HOU', '1025', 625, '1110', 670], ['T3', 'HOU', 'DAL', '1145', 705, '1250', 770], ['T3', 'DAL', 'HOU', '1320', 800, '1425', 865], ['T3', 'HOU', 'AUS', '1500', 900, '1545', 945], ['T3', 'AUS', 'DAL', '1610', 970, '1700', 1020], ['T3', 'DAL', 'HOU', '1730', 1050, '1835', 1115], ['T4', 'DAL', 'HOU', '0600', 360, '0705', 425], ['T4', 'DAL', 'HOU', '0720', 440, '0825', 505], ['T4', 'DAL', 'HOU', '0720', 440, '0825', 505], ['T4', 'DAL', 'HOU', '0720', 440, '0825', 505], ['T4', 'DAL', 'HOU', '0720', 440, '0825', 505], ['T4', 'DAL', 'HOU', '0720', 440, '0825', 505], ['T4', 'DAL', 'HOU', '0720', 440, '0825', 505], ['T4', 'DAL', 'HOU', '0720', 440, '0825', 505], ['T4', 'HOU', 'DAL', '0740', 460, '0845', 525], ['T5', 'DAL', 'HOU', '0600', 360, '0705', 425], ['T5', 'DAL', 'HOU', '0720', 440, '0825', 505], ['T5', 'DAL', 'HOU', '0720', 440, '0825', 505], ['T5', 'DAL', 'HOU', '0720', 440, '0825', 505], ['T5', 'DAL', 'HOU', '0720', 440, '0825', 505], ['T5', 'DAL', 'HOU', '0720', 440, '0825', 505], ['T5', 'DAL', 'HOU', '0720', 440, '0825', 505], ['T5', 'DAL', 'HOU', '0720', 440, '0825', 505], ['T5', 'HOU', 'DAL', '0740', 460, '0845', 525], ['T6', 'AUS', 'HOU', '0600', 360, '0645', 405]]
+Successful run of program - 5 points
+Flight schedule file loaded and validated - 5 points
+Noise restrictions validated - 5 points
+Flight times validated - 5 points
+Aircraft  T1 out of position, origin of  AUS should be HOU in ['T1', 'AUS', 'HOU', '0840', 520, '0925', 565]
+Aircraft  T4 out of position, origin of  DAL should be HOU in ['T4', 'DAL', 'HOU', '0720', 440, '0825', 505]
+Aircraft  T4 out of position, origin of  DAL should be HOU in ['T4', 'DAL', 'HOU', '0720', 440, '0825', 505]
+Aircraft  T4 out of position, origin of  DAL should be HOU in ['T4', 'DAL', 'HOU', '0720', 440, '0825', 505]
+Aircraft  T4 out of position, origin of  DAL should be HOU in ['T4', 'DAL', 'HOU', '0720', 440, '0825', 505]
+Aircraft  T4 out of position, origin of  DAL should be HOU in ['T4', 'DAL', 'HOU', '0720', 440, '0825', 505]
+Aircraft  T4 out of position, origin of  DAL should be HOU in ['T4', 'DAL', 'HOU', '0720', 440, '0825', 505]
+Aircraft  T4 out of position, origin of  DAL should be HOU in ['T4', 'DAL', 'HOU', '0720', 440, '0825', 505]
+Aircraft  T5 out of position, origin of  DAL should be HOU in ['T5', 'DAL', 'HOU', '0720', 440, '0825', 505]
+Aircraft  T5 out of position, origin of  DAL should be HOU in ['T5', 'DAL', 'HOU', '0720', 440, '0825', 505]
+Aircraft  T5 out of position, origin of  DAL should be HOU in ['T5', 'DAL', 'HOU', '0720', 440, '0825', 505]
+Aircraft  T5 out of position, origin of  DAL should be HOU in ['T5', 'DAL', 'HOU', '0720', 440, '0825', 505]
+Aircraft  T5 out of position, origin of  DAL should be HOU in ['T5', 'DAL', 'HOU', '0720', 440, '0825', 505]
+Aircraft  T5 out of position, origin of  DAL should be HOU in ['T5', 'DAL', 'HOU', '0720', 440, '0825', 505]
+Aircraft  T5 out of position, origin of  DAL should be HOU in ['T5', 'DAL', 'HOU', '0720', 440, '0825', 505]
+Ground time violations - 0 points
+Maximum aircraft per gates at airport validated - 5 points
+Aircraft are in position for the next day validated - 5 points
+Basic Criteria was not met - no further points are possible

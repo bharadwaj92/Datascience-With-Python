@@ -1,0 +1,176 @@
+
+2017-08-10 15:03 Thursday
+Checking Directory: assignment_04
+Directory created correctly - please check instructor files in that directory
+
+
+
+2017-08-01 20:25 Tuesday
+Checking Directory: assignment_03
+Directory created correctly - please check instructor files in that directory
+
+
+
+2017-07-18 09:11 Tuesday
+Checking Directory: lab_02
+Directory created correctly - please check instructor files in that directory
+
+
+
+2017-07-17 17:20 Monday
+Checking Directory: lab_02
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-07-16 06:45 Sunday
+Checking Directory: assignment_02
+Directory created correctly - please check instructor files in that directory
+
+
+
+2017-07-15 11:08 Saturday
+Checking Directory: assignment_02
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-07-14 12:38 Friday
+Checking Directory: assignment_02
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-07-14 11:28 Friday
+Checking Directory: assignment_02
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-07-14 11:02 Friday
+Checking Directory: assignment_02
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-07-14 10:36 Friday
+Checking Directory: assignment_02
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-07-13 08:47 Thursday
+Checking Directory: assignment_02
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-07-12 10:26 Wednesday
+Checking Directory: assignment_02
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-07-11 09:14 Tuesday
+Checking Directory: assignment_02
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-07-10 10:54 Monday
+Checking Directory: assignment_02
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-07-09 23:25 Sunday
+Checking Directory: assignment_02
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-07-09 22:21 Sunday
+Checking Directory: assignment_02
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-06-29 10:06 Thursday
+Checking Directory: assignment_01
+Directory created correctly - please check instructor files in that directory
+
+
+
+2017-06-29 09:56 Thursday
+Checking Directory: lab_01
+Directory created correctly - please check instructor files in that directory
+
+
+
+2017-06-28 18:23 Wednesday
+Checking Directory: lab_01
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-06-28 17:25 Wednesday
+Checking Directory: assignment_01
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-06-28 17:22 Wednesday
+Checking Directory: lab_01
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-06-28 17:13 Wednesday
+Checking Directory: lab_01
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-06-28 17:08 Wednesday
+Checking Directory: lab_01
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-06-28 17:07 Wednesday
+Checking Directory: assignment_01
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-06-28 16:56 Wednesday
+Checking Directory: assignment_01
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-06-28 14:25 Wednesday
+Checking Directory: assignment_01
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-06-28 14:05 Wednesday
+Checking Directory: lab_01
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-06-28 13:47 Wednesday
+Checking Directory: lab_01
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+
+2017-06-28 13:45 Wednesday
+Checking Directory: lab_01
+Directory not found (possible missing read me file)
+Please create directory with 1 and only 1 read me, such as README.txt or README.md
+
+2017-06-28 13:40 Wednesday
+Repo has been successfully matched with the galaxy user: Tippavajjula, Bharadwaj
